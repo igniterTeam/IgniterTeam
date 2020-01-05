@@ -6,11 +6,17 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## 技术文章
 
-### Kotlin
+- Kotlin
 
-### 单元测试
+...
 
-### EPC
+- 单元测试
+
+...
+
+- EPC
+
+...
 
 ## 读书笔记
 - [《代码整洁之道》读书笔记](./clean_code_by_jiajian.md)
