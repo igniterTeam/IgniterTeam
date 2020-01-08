@@ -12,9 +12,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ...
 
-- 单元测试
+- 自动化测试
 
 [TDD 常见错误 & TDD in flutter](./tdd_common_mistakes_and_tdd_in_flutter.md)
+[BDD 最佳实践](./bdd_best_practices.md)
 
 - EPC
 
