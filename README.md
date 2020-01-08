@@ -1,4 +1,3 @@
-## 欢迎来到这里
 
 网站链接：https://igniterteam.github.io/IgniterTeam/
 
