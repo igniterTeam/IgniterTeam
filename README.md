@@ -2,22 +2,19 @@
 
 网站链接：https://igniterteam.github.io/IgniterTeam/
 
-You can use the [editor on GitHub](https://github.com/igniterTeam/-/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ## 技术文章
 
-- Kotlin
+### Kotlin
 
 
 
-- 自动化测试
+### 自动化测试
 
-- [TDD 常见错误 & TDD in flutter](./tdd_common_mistakes_and_tdd_in_flutter.md)
-- [BDD 最佳实践](./bdd_best_practices.md)
+  - [TDD 常见错误 & TDD in flutter](./tdd_common_mistakes_and_tdd_in_flutter.md)
+  - [BDD 最佳实践](./bdd_best_practices.md)
 
-- EPC
+
+### EPC
 
 
 
